@@ -1,0 +1,1 @@
+﻿positionForPages[3]=[{word:"https://www.facebook.com/alkitab.biblebooks",left:-0.917333,top:0.026000,width:1.862866,height:0.943330}];
